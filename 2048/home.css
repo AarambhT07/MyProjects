@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding: 0;
+}
+nav{
+    background-color: rgb(99, 132, 101);
+    color: black;
+    height: 60px;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    padding: 0 200px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.gameInfo h2{
+    font-size: 2.5rem;
+    color:rgb(47, 46, 46);
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        padding-left: 50px;
+}
+.gameInfo h3{
+    color:darkblue;
+    font-size: 2.5rem;
+        font: family #9c1212;
+        padding-top: 60px;
+        text-align: center;
+        text-shadow: slateblue;
+
+}
+.imgbox img{
+    width: 300px;
+    height: 200px;
+    padding-left: 550px;
+    padding-top: 50px;
+}
+.links{
+    padding: 40px;
+    padding-bottom: 100px;
+}
+.exit{
+    margin: 0 23px;
+    padding: 6px 14px;
+    background: #e5c7e5;
+    border-radius:6px;
+    cursor: pointer;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: bolder; 
+}
